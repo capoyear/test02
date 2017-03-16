@@ -5,4 +5,5 @@ package com.pao.mysqlapplication;
  */
 
 public class Aaa {
+    public Boolean kuypao = true ;
 }
